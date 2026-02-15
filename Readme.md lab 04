@@ -1,0 +1,104 @@
+# Programming Fundamentals – Lab 04
+
+## Student Information
+**Name:** RAO ALISHA 
+**Course:** Programming Fundamentals  
+**Lab No:** 04  
+
+---
+
+## Lab Overview
+This lab focuses on implementing **decision-making structures** in C programming.  
+The tasks emphasize input validation, correct formulas, proper data types, and logical flow
+using `if`, `if–else`, `if–else if–else`, and `switch` statements.
+
+---
+
+## Tasks Performed
+
+### Task 1: Sports Team Selection Eligibility
+- Input practice attendance percentage
+- Attendance ≥ 75% → Selected
+- Else → Not Selected  
+**Concept Used:** `if – else`
+
+---
+
+### Task 2: Internet Data Usage Category
+- Input monthly data usage (GB)
+- ≤ 50 GB → Basic User  
+- 51–150 GB → Standard User  
+- > 150 GB → Heavy User  
+**Concept Used:** `if – else if – else`
+
+---
+
+### Task 3: Bank Account Balance Status
+- Input account balance
+- Positive → Positive Balance  
+- Negative → Overdrawn  
+- Zero → Zero Balance  
+**Concept Used:** `if – else if – else`
+
+---
+
+### Task 4: Wi-Fi Access Authentication System
+- Predefined credentials:
+  - Username: `user`
+  - Password: `7890`
+- Valid credentials → Connected Successfully  
+- Invalid → Connection Failed  
+**Concept Used:** Logical operators (`&&`) with `if – else`
+
+---
+
+### Task 5: Banking Service Menu System
+- ATM menu using switch:
+  1. Balance Inquiry  
+  2. Withdraw Money  
+  3. Deposit Money  
+  4. Exit  
+- Handles invalid choice  
+**Concept Used:** `switch` statement
+
+---
+
+### Task 6: Scholarship Evaluation System
+- Input marks of 5 subjects (0–100)
+- Calculate percentage
+- ≥ 85% → Full Scholarship  
+- ≥ 70% → Partial Scholarship  
+- ≥ 50% → Eligible for Consideration  
+- < 50% → Not Eligible  
+**Concept Used:** `if – else if – else`
+
+---
+
+### Task 7: Festival Sale Discount Calculator
+- Input total purchase amount
+- ≥ 5000 → 20% discount  
+- ≥ 3000 → 10% discount  
+- < 3000 → No discount  
+**Concept Used:** `if – else if – else`
+
+---
+
+### Task 8: Math Operations Console Using Switch
+- Menu-based math operations
+- Supports:
+  - Addition, Subtraction, Multiplication, Division
+  - Square, Cube, Square Root
+  - Power, Absolute Value, Modulus
+- Includes validations:
+  - Division by zero
+  - Square root of negative number
+  - Modulus by zero
+  - Invalid menu choice  
+**Concepts Used:**  
+`switch`, `if (validation)`, relational & logical operators
+
+---
+
+## Conclusion
+This lab strengthened understanding of **decision structures**, **menu-driven programs**,
+and **input validation**, ensuring accurate calculations and logical correctness in C programs.
