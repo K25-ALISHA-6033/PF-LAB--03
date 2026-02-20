@@ -1,0 +1,30 @@
+Lab 05: Nested Decision Structures
+
+Aims & Objectives:
+
+Handle multiple conditions using nested decisions.
+
+Simplify complex logic and improve code readability.
+
+Reduce redundancy and create modular programs.
+
+Introduction:
+Nested decision structures (if-else, switch-case) allow programs to make hierarchical decisions. Widely used in data processing, games, AI, and business applications.
+
+Key Concepts:
+
+Nested If-Else & Switch-Case
+
+Ternary Operator (condition ? expr1 : expr2)
+
+Operator Precedence
+
+Math Library Functions (<math.h>)
+
+Learning Outcomes:
+
+Implement nested decisions in C.
+
+Write clean, maintainable code.
+
+Apply logical reasoning and math functions effectively.
