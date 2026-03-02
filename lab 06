@@ -1,0 +1,304 @@
+Lab Objectives
+
+The objective of this lab is to understand and implement different loop structures in C programming:
+
+for loop (known iterations)
+
+while loop (condition-based execution)
+
+do-while loop (exit-controlled execution)
+
+Sentinel value control
+
+Logical classification
+
+Counter & accumulator concepts
+
+Real-world problem simulation
+
+📝 Tasks Overview
+1️⃣ Student Attendance Counter
+
+(For Loop – Known Iterations)
+
+📌 Description:
+
+Record attendance for 30 students.
+
+Input: 1 = Present, 0 = Absent
+
+Calculate total number of students present.
+
+🔑 Concept Used:
+
+Fixed iteration using for loop
+
+Counter variable
+
+2️⃣ ATM Withdrawal System
+
+(While Loop – Condition Based)
+
+📌 Description:
+
+User withdraws money from ATM.
+
+Withdrawal continues until balance becomes zero or negative.
+
+Balance is reduced after each withdrawal.
+
+🔑 Concept Used:
+
+Condition-based while loop
+
+Dynamic balance deduction
+
+3️⃣ Password Retry System
+
+(Do-While Loop – At Least One Execution)
+
+📌 Description:
+
+Correct password: 1234
+
+User must keep entering password until correct one is entered.
+
+🔑 Concept Used:
+
+do-while loop
+
+Guaranteed at least one execution
+
+4️⃣ Sum of First N Natural Numbers
+
+(For Loop)
+
+📌 Description:
+
+User enters a number N.
+
+Program calculates:
+
+1
++
+2
++
+3
++
+.
+.
+.
++
+𝑁
+1+2+3+...+N
+🔑 Concept Used:
+
+for loop
+
+Accumulator variable
+
+5️⃣ Temperature Monitoring System
+
+(While Loop – Dynamic Input Handling)
+
+📌 Description:
+
+Accept temperature readings continuously.
+
+Stop when user enters -999 (sentinel value).
+
+Calculate average of valid inputs.
+
+🔑 Concept Used:
+
+Sentinel control
+
+Running total and count
+
+Average calculation
+
+6️⃣ Multiplication Table Generator
+
+(For Loop – Controlled Iterations)
+
+📌 Description:
+
+User enters a number.
+
+Program prints multiplication table up to 10.
+
+🔑 Concept Used:
+
+Fixed loop range (1 to 10)
+
+Multiplicative iteration
+
+7️⃣ Menu-Driven Calculator
+
+(Do-While Loop – Exit Controlled Loop)
+
+📌 Description:
+
+Menu options:
+
+Addition
+
+Subtraction
+
+Exit
+
+Program continues showing menu until user selects Exit.
+
+🔑 Concept Used:
+
+Exit-controlled do-while loop
+
+Menu-based logic handling
+
+8️⃣ Number Guessing Game
+
+(While Loop – Control Flow Management)
+
+📌 Description:
+
+Correct number is 7
+
+User keeps guessing
+
+Program displays:
+
+"Too High"
+
+"Too Low"
+
+"Correct!"
+
+🔑 Concept Used:
+
+Conditional checking
+
+Loop until correct condition met
+
+9️⃣ Factory Production Planning System
+
+(For Loop – Logical Iteration & Multiplicative Growth)
+
+📌 Description:
+
+N boxes to be produced.
+
+Box number = decorative items required.
+
+Calculate total decorative items.
+
+Example:
+
+Box 1 → 1 item
+
+Box 2 → 2 items
+
+Box 3 → 3 items
+
+Total = Sum of 1 to N
+
+🔑 Concept Used:
+
+Arithmetic progression
+
+Iterative summation
+
+🔟 University Data Analysis System
+
+(While Loop – Logical Classification & Sentinel Control)
+
+📌 Description:
+
+Accept student scores (0–100)
+
+Stop when -1 is entered
+
+Classify scores into:
+
+Distinction (≥ 75)
+
+Pass (50–74)
+
+Fail (< 50)
+
+🔑 Concept Used:
+
+Sentinel value
+
+Multiple condition classification
+
+Counters
+
+1️⃣1️⃣ Online Shopping Cart Checkout System
+
+(Do-While Loop – Exit Controlled & User Choice Based)
+
+📌 Description:
+
+User enters product price.
+
+After each entry, choose:
+
+1 = Add more
+
+0 = Stop
+
+Calculate total bill.
+
+Apply 5% discount if total exceeds 5000.
+
+Display final payable amount.
+
+🔑 Concept Used:
+
+Exit-controlled loop
+
+Discount calculation logic
+
+1️⃣2️⃣ Bus Seat Reservation Monitoring System
+
+(While Loop – Conditional Termination & Logical Control)
+
+📌 Description:
+
+Bus has 40 seats.
+
+Booking continues until:
+
+All seats are full OR
+
+Operator enters 0 to stop
+
+Display remaining seats after each booking.
+
+Prevent booking if full.
+
+🔑 Concept Used:
+
+Multiple stopping conditions
+
+Seat counter logic
+
+Controlled termination
+
+📚 Concepts Covered in Lab 06
+
+For Loop (Known Iterations)
+
+While Loop (Condition-Based Execution)
+
+Do-While Loop (Exit-Controlled Execution)
+
+Sentinel Values
+
+Logical Classification
+
+Counters and Accumulators
+
+Real-World Problem Simulation
+
+Conditional Termination
