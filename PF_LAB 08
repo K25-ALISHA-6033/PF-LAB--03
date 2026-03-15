@@ -1,0 +1,34 @@
+Lab Report: 2D Arrays and Matrix Operations
+
+Name: RAO ALISHA
+Course:  PROGRAMMING FUNDAMENTAL LAB
+Objective:
+To understand 2D array storage and traversal in C.
+To perform calculations like totals, averages, and maximum values.
+To learn matrix operations: transpose, determinant, cofactor, adjoint, inverse, and multiplication.
+To classify matrices based on their properties (square, rectangular, diagonal, symmetric, etc.).
+To apply programming logic to real-life scenarios such as student marks, cinema seats, and temperature monitoring.
+
+Classroom Marks System
+Description: Store marks of 4 students in 3 subjects. Calculate total marks per student and average per subject.
+Objective: Learn row-wise and column-wise operations in 2D arrays.
+
+Cinema Seat Booking
+Description: Represent 5×6 seats (0 = available, 1 = booked). Count available seats and row with maximum bookings.
+Objective: Scan arrays and apply logical checks.
+
+Temperature Monitoring
+Description: Record temperature for 7 days, 3 times/day. Find weekly max and daily average.
+Objective: Practice array traversal and calculations.
+
+3×3 Matrix Analysis
+Description: Perform transpose, determinant, cofactor, adjoint, and inverse.
+Objective: Understand matrix operations using nested loops.
+
+Matrix Type Checker
+Description: Identify square, rectangular, zero, identity, diagonal, scalar, triangular, symmetric, skew-symmetric, singular, row, column, null matrices.
+Objective: Learn classification and logical verification of matrices.
+
+Multiply Two Matrices
+Description: Multiply two matrices (max 3×3) after validating dimensions.
+Objective: Practice matrix multiplication using nested loops.
