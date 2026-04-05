@@ -1,0 +1,20 @@
+# 📘 Lab 09 — Functions & Pointers (C)
+
+## 📌 Introduction
+
+This lab covers the use of **functions and pointers in C** through real-life scenarios like hospital systems, ATM security, billing, and data analysis. 
+It helps improve modular programming and problem-solving skills.
+
+
+## 🎯 Objectives
+
+* **Q1:** Calculate triage score using function and conditions
+* **Q2:** Apply discount & print invoice using separate functions
+* **Q3:** Perform array analysis (total, average, max)
+* **Q4:** Validate PIN with limited attempts
+* **Q5:** Convert units using multiple functions
+* **Q6:** Analyze revenue and find best table
+* **Q7:** Use pointer arithmetic for in-place scaling
+* **Q8:** Use void pointer for multiple data types
+* **Q9:** Traverse 2D array using pointers
+* **Q10:** Use function pointers for dynamic action.
