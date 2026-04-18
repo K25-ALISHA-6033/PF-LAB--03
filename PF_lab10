@@ -1,0 +1,22 @@
+# Lab 10 – C Programming Fundamentals
+## 📌 Introduction
+This lab focuses on practical implementation of core C programming concepts, including string manipulation, 2D character arrays, and file handling.
+The tasks are designed to simulate real-world scenarios such as validating user input, managing student data, processing text,
+and working with files for persistent storage.
+## 🎯 Objectives
+### Objective 1: String Library Functions
+Apply functions from `<string.h>` to perform validation, comparison, and formatting tasks. This includes checking string length, 
+comparing passwords, and extracting parts of strings such as email domains.
+### Objective 2: 2D Character Arrays
+Work with arrays of strings to store and process multiple inputs. 
+Tasks include searching, counting word frequencies, and displaying character-level data using nested loops.
+### Objective 3: File Handling in C
+Understand how to create, read, write, and append files using `FILE` pointers.
+These tasks simulate real applications like logging grades, maintaining inventory records, reading configuration files, and generating report cards.
+## 🧠 Learning Outcomes
+* Efficient use of string handling functions
+* Mastery of multi-dimensional character arrays
+* Practical understanding of file operations in C
+* Improved problem-solving through real-world scenarios
+
+---
