@@ -1,0 +1,26 @@
+# Lab 11 – Programming Fundamentals
+
+## 📌 Introduction
+This lab focuses on applying core programming concepts in C such as recursion and structures. 
+The tasks help in understanding problem-solving techniques used in real-world applications like system design, security checks, and data management.
+
+---
+## 🎯 Objectives
+- To implement recursive functions for problem solving
+- To understand and use structures and nested structures in C
+- To handle arrays of structures for storing multiple records
+- To perform searching and filtering operations on data
+- To improve logical thinking and programming skills in C
+
+---
+## 🧪 Tasks Covered
+- Recursive power calculation for building floors
+- Password strength checker using recursion
+- Recursive maze path counting
+- Patient record system using structures
+- University course catalog using nested structures
+- E-commerce order tracker system
+
+---
+## 🧠 Outcome
+After completing this lab, students can design and implement structured and recursive solutions for moderate-level programming problems.
