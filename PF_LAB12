@@ -1,0 +1,23 @@
+# Dynamic Memory Allocation in C
+
+## Introduction
+This project demonstrates the use of dynamic memory allocation in C using `malloc`, `calloc`, and `realloc`.
+It simulates real-world scenarios such as managing student grades, expanding contact lists, and handling sensor data buffers. 
+The focus is on efficient memory usage, flexibility, and safe programming practices.
+
+## Objectives
+- To understand the difference between static and dynamic memory allocation  
+- To implement `malloc` for runtime memory allocation  
+- To use `realloc` for resizing memory dynamically  
+- To apply `calloc` for zero-initialized memory allocation  
+- To learn proper memory management using `free()`  
+- To avoid common issues like memory leaks and dangling pointers  
+
+## Tasks Covered
+1. Student Grade Book using `malloc`  
+2. Expanding Contact List using `realloc`  
+3. Sensor Data Buffer using `calloc`  
+
+## Conclusion
+Dynamic memory allocation provides flexibility and efficient memory usage in programs.
+Proper handling of allocation and deallocation is essential to build safe and reliable applications.
